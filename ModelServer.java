@@ -5,7 +5,7 @@ public final class ModelServer {
     private TreeMap<Integer, String> usersRegistered;
     private TreeMap<String, ChannelUser> channels;
 
-    public ServerModel() {
+    public ModelServer() {
         usersRegistered = new TreeMap<Integer, String>();
         channels = new TreeMap<String, ChannelUser>();
     }
