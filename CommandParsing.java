@@ -78,6 +78,6 @@ public final class CommandParsing {
         CREATE, INVITE, JOIN, KICK, LEAVE, MESG, NICK
     }
 
-    private CommandParser() {
+    private CommandParsing() {
     }
 }
