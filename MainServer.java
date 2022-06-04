@@ -35,6 +35,6 @@ public final class MainServer {
     }
 
     
-    private ServerMain() {
+    private MainServer() {
     }
 }
